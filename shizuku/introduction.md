@@ -1,3 +1,7 @@
+[81271-ifs-documentation-cy47r3-part-iv-physical-processes_1.pdf](https://github.com/user-attachments/files/17176874/81271-ifs-documentation-cy47r3-part-iv-physical-processes_1.pdf)
+[open-meteo-52.52N13.42E38m.xlsx](https://github.com/user-attachments/files/17176873/open-meteo-52.52N13.42E38m.xlsx)
+[open-meteo-52.52N13.42E38m.csv](https://github.com/user-attachments/files/17176872/open-meteo-52.52N13.42E38m.csv)
+[2.46.2.txt](https://github.com/user-attachments/files/17176871/2.46.2.txt)
 # Introduction
 
 Shizuku can help normal apps uses system APIs directly with adb/root privileges with a Java process started with app_process.
